@@ -1,0 +1,19 @@
+
+body {
+    background-color: #f6f6f6;
+}
+
+.img_thumbnail {
+    position: relative;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.img_thumbnail img {
+    width: 100%;
+}
+
+.img_thumbnail .caption {
+    margin: 7px;
+    text-align: center;
+}
